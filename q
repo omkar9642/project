@@ -1,2 +1,2 @@
 hi this is omkar 
-from devops 
+from devops i am learninf devops course
